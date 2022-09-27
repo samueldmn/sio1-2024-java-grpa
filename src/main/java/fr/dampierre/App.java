@@ -17,6 +17,8 @@ public class App {
     System.out.print("Entrez le taux horaire : ");
     double tauxHoraire = clavier.nextDouble();
 
+    // commentaire bidon
+
     clavier.close();
 
     // Multiplier le nombre d’heures par le taux horaire
